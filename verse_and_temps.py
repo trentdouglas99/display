@@ -9,13 +9,13 @@ reference = ""
 display_text = ""
 
 #Raspberry Pi pin configuration:
-lcd_rs        = 25
-lcd_en        = 24
-lcd_d4        = 23
-lcd_d5        = 17
-lcd_d6        = 18
-lcd_d7        = 22
-lcd_backlight = 4
+lcd_rs        = 19
+lcd_en        = 13
+lcd_d4        = 4
+lcd_d5        = 6
+lcd_d6        = 20
+lcd_d7        = 16
+lcd_backlight = 23
 lcd_columns = 16
 lcd_rows    = 2
 
